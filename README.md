@@ -1,6 +1,9 @@
 <h1 align="center">NoAuthAPIs</h1>
 <p align="center">Curated collection of no-auth public APIs</p>
 
+![WhatsApp Image 2025-09-07 at 1 12 13 AM](https://github.com/user-attachments/assets/884c1e12-cec1-4b96-915f-875c21a64ee5)
+
+
 <p align="center">
   <a href="https://github.com/ecnivs/publicapis/stargazers">
     <img src="https://img.shields.io/github/stars/ecnivs/publicapis?style=flat-square">
