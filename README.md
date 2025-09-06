@@ -14,7 +14,12 @@
 </p>
 
 ## Index
+- [Animals](#animals)
 - [Anime](#anime)
+- [Anti-Malware](#anti-malware)
+- [Art & Design](#art--design)
+- [Blockchain](#blockchain)
+- [Books](#books)
 - [Music](#music)
 - [Security](#security)
 - [Social](#social)
@@ -25,6 +30,29 @@
 - [Video](#video)
 - [Weather](#weather)
 
+### Animals
+| API | Description |
+|:---|:---|
+| [Axolotl](https://theaxolotlapi.netlify.app/) | Collection of axolotl pictures and facts |
+| [Cat](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts |
+| [Cataas](https://cataas.com/) | Cat pictures and gifs |
+| [Dog Facts](https://dukengn.github.io/Dog-facts-API/) | Random dog facts |
+| [Dog Facts](https://kinduff.github.io/dog-api/) | Dog facts |
+| [Dog API](https://dog.ceo/dog-api/) | Dog images |
+| [HTTP Cats API](https://http.cat/) | Retrieve humorous cat images corresponding to HTTP status codes |
+| [HTTP Status Dogs API](https://http.dog/) | Retrieve humorous dog images corresponding to HTTP status codes |
+| [Meow Facts](https://github.com/wh-iterabb-it/meowfacts) | Random cat facts |
+| [MoveBank](https://github.com/movebank/movebank-api-doc) | Movement and migration data of animals |
+| [Placebear](https://placebear.com/) | Placeholder bear images |
+| [PlaceDog](https://place.dog/) | Placeholder dog images |
+| [Random Dog](https://random.dog/woof.json) | Random dog images |
+| [Random Duck](https://random-d.uk/api) | Random duck images |
+| [RescueGroups.org](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoptable pet data REST API with live query/update capability |
+| [Xeno-canto](https://xeno-canto.org/explore/api) | Search and retrieve global bird sound recordings |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
 
 ### Anime
 | API | Description |
@@ -37,6 +65,57 @@
 | [TraceMoe](https://soruly.github.io/trace.moe-api/) | Get the exact scene of an anime from a screenshot |
 | [Waifu.pics](https://waifu.pics/docs) | Waifu pictures |
 | [Waifu.im](https://waifu.im/docs) | Designed as an alternative to waifu.pics, built to meet specific developer preferences. |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Anti-Malware
+| API | Description |
+|:---|:---|
+| [URLhaus](https://urlhaus-api.abuse.ch/) | Query malware URL intelligence and download malware samples |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Art & Design
+| API | Description |
+|:---|:---|
+| [Art Institute of Chicago](https://api.artic.edu/docs/) | Explore the museum’s public data on artworks, publications, images, and more |
+| [Colormind](http://colormind.io/api-access/) | Generate color schemes |
+| [COLOURlovers](https://www.colourlovers.com/api) | Palettes, colors, patterns, and user-created designs |
+| [EmojiHub](https://github.com/cheatsnake/emojihub) | Random or categorized emoji data |
+| [Icons8](https://img.icons8.com/) | Integrate icons, illustrations, photos, music, and AI tools into your app |
+| [Lordicon](https://lordicon.com/docs/api/documentation) | Customizable animated and static icons |
+| [Met Museum Collection](https://metmuseum.github.io/) | Met’s open-access art collection and metadata |
+| [PHP-Noise](https://php-noise.com/) | Customizable noise background images via HTTP API |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Blockchain
+| API | Description |
+|:---|:---|
+| [Chainpoint](https://tierion.com/chainpoint/) | Anchor data to the Bitcoin blockchain with timestamp proofs |
+| [Helium](https://docs.helium.com/) | Interact programmatically with Helium blockchain and Console |
+| [Steem](https://developers.steem.io/) | Interact with the Steem blockchain using JSON-RPC endpoints |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Books
+| API | Description |
+|:---|:---|
+| [Bible-API](https://bible-api.com/) | Retrieve Bible verses and passages via flexible REST JSON endpoints |
+| [Crossref](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) | Retrieve scholarly metadata |
+| [Gutendex](https://gutendex.com/) | JSON web API for Project Gutenberg ebook metadata |
+| [Open Library](https://openlibrary.org/developers/api) | Query book and cover data from Open Library |
+| [Penguin Random House](https://www.penguinrandomhouse.biz/webservices/rest/) | Retrieve book, author, and event data via REST API |
+| [PoetryDB](https://poetrydb.org/) | Collection of poems, searchable by author, title, lines or random |
+| [Wizard World API](https://wizard-world-api.herokuapp.com/swagger/index.html) | Retrieve data on wizards, spells, houses, and more |
 
 **[⬆ Back to Index](#index)**
 <br >
