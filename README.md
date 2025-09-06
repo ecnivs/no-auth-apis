@@ -1,4 +1,4 @@
-<h1 align="center">PublicAPIs</h1>
+<h1 align="center">NoAuthAPIs</h1>
 <p align="center">Curated collection of no-auth public APIs</p>
 
 <p align="center">
