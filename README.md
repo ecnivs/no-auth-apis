@@ -1,5 +1,5 @@
 <h1 align="center">PublicAPIs</h1>
-<p align="center">Curated collection of public APIs without authentication</p>
+<p align="center">Curated collection of no-auth public APIs</p>
 
 <p align="center">
   <a href="https://github.com/ecnivs/publicapis/stargazers">
