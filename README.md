@@ -23,6 +23,7 @@
 - [Art & Design](#art--design)
 - [Blockchain](#blockchain)
 - [Books](#books)
+- [Buisness](#buisness)
 - [Music](#music)
 - [Security](#security)
 - [Social](#social)
@@ -118,7 +119,20 @@
 | [Open Library](https://openlibrary.org/developers/api) | Query book and cover data from Open Library |
 | [Penguin Random House](https://www.penguinrandomhouse.biz/webservices/rest/) | Retrieve book, author, and event data via REST API |
 | [PoetryDB](https://poetrydb.org/) | Collection of poems, searchable by author, title, lines or random |
-| [Wizard World API](https://wizard-world-api.herokuapp.com/swagger/index.html) | Retrieve data on wizards, spells, houses, and more |
+| [Wizard World API](https://wizard-world-api.herokuapp.com/swagger/index.html) | Data on wizards, spells, houses, and more |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Buisness
+| API | Description |
+|:---|:---|
+| [Marker API](https://markerapi.com/) | REST API for searching USPTO trademark records |
+| [Tenders Guru Hungary](https://tenders.guru/hu/api) | Public procurement data for Hungary |
+| [Tenders Guru Poland](https://tenders.guru/pl/api) | Public procurement data for Poland |
+| [Tenders Guru Romania](https://tenders.guru/ro/api) | Public procurement data for Romania |
+| [Tenders Guru Ukraine](https://tenders.guru/ua/api) | Public procurement data for Ukraine |
 
 **[⬆ Back to Index](#index)**
 <br >
