@@ -27,6 +27,8 @@
 - [Calendar](#calendar)
 - [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
 - [Cryptocurrency](#cryptocurrency)
+- [Data Validation](#data-validation)
+- [Email](#email)
 - [Music](#music)
 - [Security](#security)
 - [Social](#social)
@@ -183,6 +185,31 @@
 | [Messari](https://docs.messari.io/) | Institutional-grade crypto data API |
 | [N.exchange](https://nexchange2.docs.apiary.io/#) | Crypto exchange |
 | [Solana RPC](https://solana.com/docs/rpc) | JSON-RPC API for Solana |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Data Validation
+| API | Description |
+|:---|:---|
+| [Postman Echo](https://www.postman-echo.com/) | Test HTTP requests and responses |
+| [PurgoMalum Profanity Filter](https://www.purgomalum.com/) | Free RESTful profanity filtering API |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Email
+| API | Description |
+|:---|:---|
+| [DISIFY](https://disify.com/) | Email validation for disposable addresses |
+| [DropMail](https://dropmail.me/api/#live-demo) | Disposable email service |
+| [Guerrilla Mail](https://www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable email API with JSON support |
+| [Kickbox Email Verification](https://open.kickbox.com/) | Real-time email validation |
+| [Mail.gw](https://docs.mail.gw/) | 10-minute disposable email |
+| [Mail.tm API](https://docs.mail.tm/) | Temporary email service |
+| [UserCheck](https://www.usercheck.com/?ref=mailcheck#documentation) | Disposable email detection |
 
 **[⬆ Back to Index](#index)**
 <br >
