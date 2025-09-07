@@ -343,7 +343,7 @@
 |:---|:---|
 | [JioSaavn](https://github.com/cyberboysumanjay/JioSaavnAPI) | Unofficial JioSaavn API |
 | [Gaana](https://github.com/cyberboysumanjay/GaanaAPI) | Unofficial Gaana API |
-| [Genrenator](https://binaryjazz.us/genrenator-api/) | Generate random music genres |
+| [Binary Jazz](https://binaryjazz.us/genrenator-api/) | Generate random music genres |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/#) | Song lyrics |
 | [MusicBrainz API](https://musicbrainz.org/doc/MusicBrainz_API) | Comprehensive music metadata |
 | [Openwhyd API](https://openwhyd.github.io/openwhyd/API) | Music curation service |
@@ -424,6 +424,7 @@
 | [What The Commit](https://whatthecommit.com/index.txt) | Retrieve random, humorous commit messages for your code |
 | [YesNo.wtf](https://yesno.wtf/api) | Generate random "yes", "no", or "maybe" answers with optional GIFs |
 | [UUIDTools](https://www.uuidtools.com/docs) | Generate UUIDs (v1, v3, v4, v5) and decode UUIDs via REST API |
+| [Softwium](https://softwium.com/fake-api/) | Fake JSON data endpoints |
 
 **[⬆ Back to Index](#index)**
 <br >
@@ -495,6 +496,9 @@
 | [openSenseMap](https://api.opensensemap.org/) | Environmental sensor data from the openSenseMap platform |
 | [Weather.gov](https://www.weather.gov/documentation/services-web-api) | U.S. weather forecasts, alerts, and observations |
 | [weather-api](https://github.com/robertoduessmann/weather-api) | A RESTful API to check the weather |
+| [wttr.in](https://github.com/chubin/wttr.in) | Terminal weather forecast service |
+| [Realtime Weather (Singapore)](https://data.gov.sg/collections/1459/view) | Live weather readings |
+| [Aviation Weather](https://aviationweather.gov/data/api/) | Aviation weather data |
 
 **[⬆ Back to Index](#index)**
 <br >
