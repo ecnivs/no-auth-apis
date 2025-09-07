@@ -34,6 +34,7 @@
 - [Finance](#finance)
 - [Food & Drinks](#food--drinks)
 - [Games & Comics](#games--comics)
+- [Jobs](#jobs)
 - [Music](#music)
 - [Security](#security)
 - [Social](#social)
@@ -319,6 +320,17 @@
 | [XKCD](https://xkcd.com/json.html) | XKCD comics and metadata via JSON |
 | [YGOPRODeck](https://ygoprodeck.com/api-guide/) | Yu-Gi-Oh! card data |
 | [Valorant-API](https://valorant-api.com/) | Extensive data on agents, weapons, maps, and more |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Jobs
+| API | Description |
+|:---|:---|
+| [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | Job listings & search |
+| [DevITjobs.uk](https://devitjobs.uk/job_feed.xml) | UK developer job listings (XML) |
+| [Workforce](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Standardized occupational skills data |
 
 **[⬆ Back to Index](#index)**
 <br >
