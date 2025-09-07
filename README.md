@@ -24,6 +24,9 @@
 - [Blockchain](#blockchain)
 - [Books](#books)
 - [Buisness](#buisness)
+- [Calendar](#calendar)
+- [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
+- [Cryptocurrency](#cryptocurrency)
 - [Music](#music)
 - [Security](#security)
 - [Social](#social)
@@ -133,6 +136,53 @@
 | [Tenders Guru Poland](https://tenders.guru/pl/api) | Public procurement data for Poland |
 | [Tenders Guru Romania](https://tenders.guru/ro/api) | Public procurement data for Romania |
 | [Tenders Guru Ukraine](https://tenders.guru/ua/api) | Public procurement data for Ukraine |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Calendar
+| API | Description |
+|:---|:---|
+| [Church Calendar](http://calapi.inadiutorium.cz/) | Roman Catholic liturgical calendar data |
+| [Czech Namedays Calendar](https://svatky.adresa.info/) | Look up Czech namedays by name or date |
+| [Hebcal Developer](https://www.hebcal.com/home/developer-apis) | Jewish calendar, date conversion, holidays, Torah readings, Shabbat times and Zmanim APIs |
+| [Hebcal Zmanim](https://www.hebcal.com/home/1663/zmanim-halachic-times-api) | Calculate Jewish halachic times (zmanim) for a given date and location |
+| [Nager.Date](https://date.nager.at/Api) | Worldwide public holidays, long weekends, and check today's holiday status |
+| [Nameday](https://nameday.abalin.net/) | Name day celebrations by country and date |
+| [ICSDB](https://github.com/gadael/icsdb) | Repository of static .ics files for non-working days (holidays) by region |
+| [isDayOff](https://www.isdayoff.ru/) | Determine if a date is a holiday, weekend, or shortened workday |
+| [UK Bank Holidays API](https://www.gov.uk/bank-holidays.json) | Retrieve bank holiday dates for England & Wales, Scotland, and Northern Ireland |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Cloud Storage & File Sharing
+| API | Description |
+|:---|:---|
+| [Pantry](https://getpantry.cloud/) | Cloud JSON storage API for small projects |
+| [0x0.st](https://0x0.st/) | Simple, encrypted temporary file-hosting via HTTP POST |
+| [File.io API](https://www.file.io/) | Secure, self-destructing file upload and sharing via REST API |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Cryptocurrency
+| API | Description |
+|:---|:---|
+| [CoinCap](https://pro.coincap.io/api-docs) | Cryptocurrency market data with real-time prices, market caps, and exchange info |
+| [1inch](https://1inch.io/page-api/) | DeFi token swaps and liquidity |
+| [CoinGecko](https://www.coingecko.com/en/api) | Crypto price & market data |
+| [CoinPaprika](https://docs.coinpaprika.com/) | Crypto market data |
+| [CoinLore](https://www.coinlore.com/cryptocurrency-data-api) | Real-time crypto market data |
+| [CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest) | Crypto market data endpoints |
+| [CryptAPI](https://docs.cryptapi.io/) | Crypto payment integration API |
+| [Gemini](https://docs.gemini.com/rest/market-data) | Gemini crypto market data API |
+| [Messari](https://docs.messari.io/) | Institutional-grade crypto data API |
+| [N.exchange](https://nexchange2.docs.apiary.io/#) | Crypto exchange |
+| [Solana RPC](https://solana.com/docs/rpc) | JSON-RPC API for Solana |
 
 **[⬆ Back to Index](#index)**
 <br >
