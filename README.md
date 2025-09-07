@@ -32,6 +32,8 @@
 - [Entertainment](#entertainment)
 - [Environment](#environment)
 - [Finance](#finance)
+- [Food & Drinks](#food--drinks)
+- [Games & Comics](#games--comics)
 - [Music](#music)
 - [Security](#security)
 - [Social](#social)
@@ -261,6 +263,67 @@
 <br >
 <br >
 
+### Food & Drinks
+| API | Description |
+|:---|:---|
+| [BaconMockup](https://baconmockup.com/) | Resizable bacon placeholder images |
+| [Coffee](https://coffee.alexflipnote.dev/) | Random coffee images |
+| [Foodish](https://github.com/surhud004/Foodish#readme) | Random food images via REST |
+| [Open Brewery DB](https://www.openbrewerydb.org/) | Brewery data |
+| [Open Food Facts](https://world.openfoodfacts.org/data) | Global food product data |
+| [TacoFancy](https://github.com/evz/tacofancy-api) | Random taco recipe generator |
+| [TheReportOfTheWeek](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & drink reviews |
+| [Whisky Hunter API](https://whiskyhunter.net/api/) | Whisky auction and distillery data |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Games & Comics
+| API | Description |
+|:---|:---|
+| [Amiibo](https://amiiboapi.com/) | Nintendo Amiibo data |
+| [Autochess VNG](https://github.com/namakurohman93/autochess-vng-api) | Heroes, classes, races data |
+| [Barter.vg](https://github.com/bartervg/barter.vg/wiki) | Game trading |
+| [BGG XML](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | BoardGameGeek data via XML |
+| [CheapShark](https://www.cheapshark.com/api) | Digital game price comparison |
+| [Chess.com](https://www.chess.com/news/view/published-data-api) | Access public chess data |
+| [Comic Vine](https://comicvine.gamespot.com/api/documentation) | Comic book data |
+| [Crafatar](https://crafatar.com/) | Minecraft avatars and skins |
+| [Deck of Cards](https://deckofcardsapi.com/) | Virtual deck operations |
+| [Digimon](https://digimon-api.vercel.app/) | Digimon data |
+| [Digimon TCG](https://documenter.getpostman.com/view/14059948/TzecB4fH) | Digimon Trading Card Game data |
+| [Disney](https://disneyapi.dev/) | Disney character data via REST & GraphQL |
+| [5e SRD](https://5e-bits.github.io/docs/) | REST/GraphQL access to D&D 5e SRD |
+| [Open5e](https://open5e.com/) | Open-source 5e SRD data |
+| [XIVAPI](https://v2.xivapi.com/) | Comprehensive FFXIV game data |
+| [FreeToGame](https://www.freetogame.com/api-doc) | Free-to-play games data |
+| [GamerPower](https://www.gamerpower.com/api-read) | Game giveaways tracker |
+| [Genshin.dev](https://genshin.dev/) | Fan-made Genshin Impact game data API |
+| [GraphQL Pokémon](https://github.com/favware/graphql-pokemon) | Extensive Pokémon data via GraphQL |
+| [GW2Spidy](https://github.com/rubensayshi/gw2spidy/wiki) | Guild Wars 2 Trading Post data |
+| [Hyrule Compendium](https://github.com/gadhagod/Hyrule-Compendium-API) | Zelda BOTW & TOTK item data |
+| [MMOBomb](https://www.mmobomb.com/api) | MMO games data |
+| [MCSRVStat](https://api.mcsrvstat.us/) | Minecraft server status and player data |
+| [Open Trivia](https://opentdb.com/api_config.php) | Trivia questions via JSON |
+| [PlayerDB](https://playerdb.co/) | Unified player data API for Minecraft, Steam, and Xbox |
+| [PokeAPI](https://pokeapi.co/) | Comprehensive Pokémon data via REST |
+| [GraphQL PokeAPI](https://github.com/mazipan/graphql-pokeapi) | Unofficial GraphQL wrapper for PokeAPI |
+| [Pokémon TCG](https://pokemontcg.io/) | Pokémon TCG card data |
+| [Psychonauts](https://psychonauts-api.netlify.app/) | Game characters and PSI powers data |
+| [PuyoDB (Deno)](https://github.com/deltadex7/puyodb-api-deno) | Unofficial Puyo Nexus database scraper |
+| [Raider.IO](https://raider.io/api) | WoW character, guild, and Mythic+ data |
+| [RuneScape](https://runescape.wiki/w/Application_programming_interface) | Runescape game data |
+| [SteamWebAPI](https://github.com/Revadike/InternalSteamWebAPI/wiki) | Unofficial Steam Web API endpoints |
+| [TCGdex](https://tcgdex.dev/) | Multilingual Pokémon TCG data via REST & GraphQL |
+| [XKCD](https://xkcd.com/json.html) | XKCD comics and metadata via JSON |
+| [YGOPRODeck](https://ygoprodeck.com/api-guide/) | Yu-Gi-Oh! card data |
+| [Valorant-API](https://valorant-api.com/) | Extensive data on agents, weapons, maps, and more |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
 ### Music
 | API | Description |
 |:---|:---|
@@ -361,6 +424,7 @@
 ### Video
 | API | Description |
 |:---|:---|
+| [Rick and Morty](https://rickandmortyapi.com/) | Characters, locations, and episodes data |
 | [An API of Ice And Fire](https://anapioficeandfire.com/) | Structured data from the world of "A Song of Ice and Fire" and "Game of Thrones" |
 | [Bob's Burgers](https://bobs-burgers-api-ui.herokuapp.com/) | Data on characters, episodes, quotes, and more from the show |
 | [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) | Quotes from Breaking Bad |
