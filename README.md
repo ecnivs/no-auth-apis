@@ -43,7 +43,7 @@
 - [Test Data](#test-data)
 - [Text Analysis](#text-analysis)
 - [Tracking](#tracking)
-- [Url Shorteners](#url-shorteners)
+- [URL Shorteners](#url-shorteners)
 - [Video](#video)
 - [Weather](#weather)
 
