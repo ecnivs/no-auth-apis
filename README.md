@@ -29,6 +29,9 @@
 - [Cryptocurrency](#cryptocurrency)
 - [Data Validation](#data-validation)
 - [Email](#email)
+- [Entertainment](#entertainment)
+- [Environment](#environment)
+- [Finance](#finance)
 - [Music](#music)
 - [Security](#security)
 - [Social](#social)
@@ -210,6 +213,49 @@
 | [Mail.gw](https://docs.mail.gw/) | 10-minute disposable email |
 | [Mail.tm API](https://docs.mail.tm/) | Temporary email service |
 | [UserCheck](https://www.usercheck.com/?ref=mailcheck#documentation) | Disposable email detection |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Entertainment
+| API | Description |
+|:---|:---|
+| [Chuck Norris Jokes](https://api.chucknorris.io/) | Chuck Norris jokes |
+| [Corporate BS Generator](https://github.com/sameerkumar18/corporate-bs-generator-api) | Corporate buzzwords and jargon |
+| [Imgflip](https://imgflip.com/api) | Meme creation via RESTful JSON |
+| [Meme Maker](https://mememaker.github.io/API/) | Meme creation and management API |
+| [NaMoMemes](https://github.com/theIYD/NaMoMemes) | Archive of NaMo memes |
+| [Techy](https://techy-api.vercel.app/) | Generate tech-savvy phrases |
+| [YoMomma](https://github.com/beanboi7/yomomma-apiv2) | FastAPI-based 'yo momma' joke generator |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Environment
+| API | Description |
+|:---|:---|
+| [CO₂Offset.io](https://co2offset.io/api.html) | Carbon offset API for businesses |
+| [GrünstromIndex](http://gruenstromindex.de/assets/js/) | Real-time green electricity data for Germany |
+| [Luchtmeetnet](https://api-docs.luchtmeetnet.nl/) | Dutch air quality data API |
+| [PM2.5](https://pm25.lass-net.org/#apis) | Real-time & historical air quality data |
+| [Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v2-0-0) | Regional carbon intensity data for Great Britain |
+| [Website Carbon](https://api.websitecarbon.com/) | Estimate website carbon emissions per page view |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Finance
+| API | Description |
+|:---|:---|
+| [BINLIST.net](https://binlist.net/) | BIN/IIN lookup |
+| [U.S. Treasury Fiscal](https://fiscaldata.treasury.gov/api-documentation/) | Access U.S. government financial data |
+| [MFAPI.in](https://www.mfapi.in/) | Indian mutual fund data |
+| [Razorpay Payments](https://razorpay.com/docs/#home-payments) | Accept payments via API |
+| [Tradestie Reddit](https://tradestie.com/apps/reddit/api/) | Top 50 Reddit stocks with sentiment |
+| [EDGAR APIs](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) | Access SEC filings via RESTful APIs |
 
 **[⬆ Back to Index](#index)**
 <br >
