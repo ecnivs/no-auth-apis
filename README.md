@@ -35,13 +35,13 @@
 - [Food & Drinks](#food--drinks)
 - [Games & Comics](#games--comics)
 - [Jobs](#jobs)
+- [Language](#language)
 - [Music](#music)
 - [Personality](#personality)
 - [Phone](#phone)
 - [Security](#security)
 - [Social](#social)
 - [Test Data](#test-data)
-- [Text Analysis](#text-analysis)
 - [Tracking](#tracking)
 - [URL Shorteners](#url-shorteners)
 - [Video](#video)
@@ -203,6 +203,7 @@
 |:---|:---|
 | [Postman Echo](https://www.postman-echo.com/) | Test HTTP requests and responses |
 | [PurgoMalum Profanity Filter](https://www.purgomalum.com/) | Free RESTful profanity filtering API |
+| [PurgoMalum API](https://www.purgomalum.com/) | Profanity filter text API |
 
 **[⬆ Back to Index](#index)**
 <br >
@@ -338,6 +339,17 @@
 <br >
 <br >
 
+### Language
+| API | Description |
+|:---|:---|
+| [LibreTranslate](https://libretranslate.com/docs/) | Open-source, self-hosted translation API supporting multiple languages |
+| [Chinese Character](http://ccdb.hemiola.com/) | Chinese character data |
+| [Dictionary API](https://dictionaryapi.dev/) | English word definitions |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
 ### Music
 | API | Description |
 |:---|:---|
@@ -425,15 +437,6 @@
 | [YesNo.wtf](https://yesno.wtf/api) | Generate random "yes", "no", or "maybe" answers with optional GIFs |
 | [UUIDTools](https://www.uuidtools.com/docs) | Generate UUIDs (v1, v3, v4, v5) and decode UUIDs via REST API |
 | [Softwium](https://softwium.com/fake-api/) | Fake JSON data endpoints |
-
-**[⬆ Back to Index](#index)**
-<br >
-<br >
-
-### Text Analysis
-| API | Description |
-|:---|:---|
-| [LibreTranslate API](https://libretranslate.com/docs/) | Open-source, self-hosted translation API supporting multiple languages |
 
 **[⬆ Back to Index](#index)**
 <br >
