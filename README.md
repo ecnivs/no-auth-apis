@@ -36,6 +36,8 @@
 - [Games & Comics](#games--comics)
 - [Jobs](#jobs)
 - [Music](#music)
+- [Personality](#personality)
+- [Phone](#phone)
 - [Security](#security)
 - [Social](#social)
 - [Test Data](#test-data)
@@ -351,6 +353,33 @@
 <br >
 <br >
 
+### Personality
+| API | Description |
+|:---|:---|
+| [FOAAS (Fuck Off As A Service)](https://www.foaas.com/) | Creative insult message generator |
+| [Advice Slip](https://api.adviceslip.com/) | Random advice |
+| [Forismatic](http://forismatic.com/en/api/) | Random inspirational quotes |
+| [Dad Jokes](https://icanhazdadjoke.com/api) | Dad jokes |
+| [Programming Quotes](https://github.com/mudroljub/programming-quotes-api) | Programming quotes |
+| [Kanye.rest](https://kanye.rest/) | Random Kanye West quotes |
+| [Quotable](https://github.com/lukePeavey/quotable) | Free open-source quotations |
+| [Quotes on Design](https://quotesondesign.com/api/) | Design quotes |
+| [Vadivelu HTTP Codes](https://vadivelu.anoram.com/) | Funny HTTP status images |
+| [ZenQuotes API](https://zenquotes.io/) | Zen quotes for inspiration |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Phone
+| API | Description |
+|:---|:---|
+| [Phone Specifications API](https://github.com/azharimm/phone-specs-api) | Phone model specs via REST |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
 ### Security
 | API | Description |
 |:---|:---|
@@ -372,7 +401,6 @@
 | API | Description |
 |:---|:---|
 | [4chan](https://github.com/4chan/4chan-API) | 4chan public JSON API |
-| [FOAAS (Fuck Off As A Service)](https://www.foaas.com/) | Creative insult message generator |
 | [HackerNews](https://github.com/HackerNews/API) | Community-driven tech news |
 | [Lanyard](https://github.com/Phineas/lanyard) | Expose Discord presence |
 | [Open Collective API](https://docs.opencollective.com/help/developers/api) | Access and manage collective data |
