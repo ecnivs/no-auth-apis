@@ -44,6 +44,7 @@
 - [Test Data](#test-data)
 - [Tracking](#tracking)
 - [URL Shorteners](#url-shorteners)
+- [Utilities](#utilities)
 - [Video](#video)
 - [Weather](#weather)
 
@@ -460,6 +461,15 @@
 | [Git.io](https://github.blog/news-insights/the-library/git-io-github-url-shortener/) | Shorten GitHub URLs |
 | [GoTiny API](https://github.com/robvanbakel/gotiny-api) | Lightweight URL shortener |
 | [Mgnet.me API](https://mgnet.me/api.html) | Shorten torrent magnet links |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Utilities
+| API | Description |
+|:---|:---|
+| [Screech API](https://github.com/ecnivs/screech-api) | screenshots of websites |
 
 **[⬆ Back to Index](#index)**
 <br >
